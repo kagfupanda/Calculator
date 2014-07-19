@@ -12,7 +12,7 @@ public class CalculatorFrame extends JFrame{
 	CalculatorTextField ctf;
 	public CalculatorFrame() {
 		// TODO Auto-generated constructor stub
-		this.setTitle("Calculator");
+		this.setTitle("Calculator By Me");
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		
 		opNumPanel = new JPanel();
